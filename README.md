@@ -11,17 +11,17 @@ Proyecto de diseño de una aplicación web para la asignatura Entorno de Desarro
    * Fecha del Sprint: 22/04/2020
    
    * Tareas realizadas por el alumno:
-    - Mockub
-    - Descripción
+      - Mockub
+      - Descripción
     
    * Tiempo empleado en cada tarea:
-    - Mockub 46min
-    - Descripción 24min
+      - Mockub 46min
+      - Descripción 24min
    
    * Herramientas usadas:
-    - BeFunky
+      - BeFunky
     
    * Bibliografía usada:
-   - [BeFunky](https://www.befunky.com/es/crear/disenador/)
-   - [Hazunaweb](https://www.hazunaweb.com/blog/los-10-mejores-programas-de-diseno-web/)
+      - [BeFunky](https://www.befunky.com/es/crear/disenador/)
+      - [Hazunaweb](https://www.hazunaweb.com/blog/los-10-mejores-programas-de-diseno-web/)
   
