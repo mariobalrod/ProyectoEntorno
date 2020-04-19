@@ -4,7 +4,7 @@ Proyecto de diseño de una aplicación web para la asignatura Entorno de Desarro
 
 
 * **Nombre de la aplicación**: 
-* **Nombre del alumno: **  Mario Ballestero Rodríguez
+* **Nombre del alumno:**  Mario Ballestero Rodríguez
 * **Especificaciones**:
    * Sprint:
    * Fecha del Sprint:
