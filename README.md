@@ -3,7 +3,7 @@ Proyecto de diseño de una aplicación web para la asignatura Entorno de Desarro
 
 
 
-* **Nombre de la aplicación**: 
+* **Nombre de la aplicación**: DiscoPub
 * **Nombre del alumno:**  Mario Ballestero Rodríguez
 * **Especificaciones**:
    * Sprint:
