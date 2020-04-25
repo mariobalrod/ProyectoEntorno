@@ -2,7 +2,7 @@
 
 
 
-![ContactarPage](.\imagenes\ContactarPage.PNG)
+![ContactarPage](./imagenes/ContactarPage.PNG)
 
 
 
@@ -11,8 +11,6 @@
 ​	Mockup del diseño del apartado Contactar, que muestra una carta con un formulario para rellenar con el correo, el asunto y finalmente un textarea para el mensaje de contactar con un botón para enviar.
 
 
-
-username= email=  imgPerfile= password=
 
 #### Diagramas:
 
@@ -24,7 +22,7 @@ username= email=  imgPerfile= password=
 
 
 
-![DiagramaDeClases](.\imagenes\DiagramaDeClases.PNG)
+![DiagramaDeClases](./imagenes/DiagramaDeClases.PNG)
 
 
 
@@ -36,33 +34,33 @@ username= email=  imgPerfile= password=
 
 
 
-![ObjetoAdmin](.\imagenes\ObjetoAdmin.PNG)
+![ObjetoAdmin](./imagenes/ObjetoAdmin.PNG)
 
 
 
 
 
-![ObjetoCliente](.\imagenes\ObjetoCliente.PNG)
+![ObjetoCliente](./imagenes/ObjetoCliente.PNG)
 
 
 
 
 
-![ObjetoEmpresa](.\imagenes\ObjetoEmpresa.PNG)
+![ObjetoEmpresa](./imagenes/ObjetoEmpresa.PNG)
 
 
 
 
 
-![ObjetoImagen](.\imagenes\ObjetoImagen.PNG)
+![ObjetoImagen](./imagenes/ObjetoImagen.PNG)
 
 
 
-![ObjetoLocal](.\imagenes\ObjetoLocal.PNG)
+![ObjetoLocal](./imagenes/ObjetoLocal.PNG)
 
 
 
-![ObjetoOferta](.\imagenes\ObjetoOferta.PNG)
+![ObjetoOferta](./imagenes/ObjetoOferta.PNG)
 
 
 
