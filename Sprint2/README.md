@@ -13,18 +13,18 @@ Proyecto de diseño de una aplicación web para la asignatura Entorno de Desarro
    * Tareas realizadas por el alumno:
       - Mockub Contactar
       - Descripción
-   - Diagrama de Clases
+      - Diagrama de Clases
       - Diagrama de Objetos
       
    * Tiempo empleado en cada tarea:
       - Mockub Contactar: 27min
       - Descripción: 10min
-   - Diagrama de Clases:  28min
+      - Diagrama de Clases:  28min
       - Diagrama de Objetos: 34min
       
    * Herramientas usadas:
       - MockFlow
-   - Lucidchart
+      - Lucidchart
       - Typora
       
    * Bibliografía usada
