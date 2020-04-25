@@ -28,7 +28,7 @@
 
 
 
-	##### 	Diagramas de Objetos
+##### 	Diagramas de Objetos
 
 ---
 
