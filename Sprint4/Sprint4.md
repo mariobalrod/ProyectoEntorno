@@ -14,9 +14,9 @@ Proyecto de diseño de una aplicación web para la asignatura Entorno de Desarro
     * Ficha Tecnica 2
   * Tiempo empleado en cada tarea:
     * Diagrama de Casos de Uso 1:  32min
-    * Diagrama de Casos de Uso 2:  21min
-    * Ficha Tecnica 1:  12min
-    * Ficha Tecnica 2: 8min
+    * Diagrama de Casos de Uso 2:  27min
+    * Ficha Tecnica 1:  18min
+    * Ficha Tecnica 2: 17min
   * Herramientas usadas:
     * LucidChart
     * Typora
@@ -98,3 +98,64 @@ Proyecto de diseño de una aplicación web para la asignatura Entorno de Desarro
 
 #### Diagrama de Casos de Uso 2
 
+![CasosDeUso2](./imagenes/CasosDeUso2.png)
+
+
+
+
+
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td style="width: 30%;">Nombre</td>
+    <td style="width: 70%;">Procesar Solicitud de Registro</td>
+  </tr>
+  <tr>
+    <td style="width: 30%;">Autor</td>
+    <td style="width: 70%;">Mario Ballestero</td>
+  </tr>
+  <tr>
+    <td style="width: 30%;">Fecha</td>
+    <td style="width: 70%;">17/05/2020</td>
+  </tr>
+  <tr>
+    <td style="width: 30%;">Descripción</td>
+    <td style="width: 70%;">
+        Permite analizar y validar las credenciales introducidas para el registro por un usuario no autenticado
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 30%;">Actores</td>
+    <td style="width: 70%;">Sistema</td>
+  </tr>
+  <tr>
+    <td style="width: 30%;">Precondiciones</td>
+    <td style="width: 70%;">
+        Deben existir todas las credenciales obligarias en los inputs para que se puedan procesar.
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 30%;">Flujo Normal</td>
+    <td style="width: 70%;">
+        1.- Llegan las credenciales introducidas por el usuario
+        <br/>
+        2.- El sistema mediante una serie de pautas y validaciones analiza dichas credenciales para comprobar si cumplen los requisitos
+        <br/>
+        3.- Se muestra un mensaje por pantalla de Usuario Registrado
+        <br/>
+        4.- El sistema redirecciona a dicho usuario a Iniciar Sesión
+        <br/>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 30%;">Flujo Alternativo</td>
+    <td style="width: 70%;">
+        2.A.- El sistema tras comprobar la validez de los datos introducidos, si no son correctos, se redirecciona al usuario de nuevo a la pagina de registro proporcinandole los mensajes de error.
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 30%;">Poscondiciones</td>
+    <td style="width: 70%;">
+        El usuario se ha registrado con éxito y ha sido guardado en el sistemas.
+    </td>
+  </tr>
+</table>
